@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/feeleyes/image-processor/issues"
   },
-  "homepage": "https://github.com/feeleyes/image-processor#readme"
+  "homepage": "https://github.com/feeleyes/image-processor#readme",
+  "dependencies": {
+    "jimp": "^0.2.27"
+  }
 }

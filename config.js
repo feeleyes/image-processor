@@ -1,6 +1,6 @@
 module.exports = {
     'size' : {
-        'width' : 200,
-        'height' : 200,
+        'width' : 30,
+        'height' : 30,
     }
 };
