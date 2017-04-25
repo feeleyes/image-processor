@@ -1,0 +1,19 @@
+{
+  "name": "image-processor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feeleyes/image-processor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feeleyes/image-processor/issues"
+  },
+  "homepage": "https://github.com/feeleyes/image-processor#readme"
+}
